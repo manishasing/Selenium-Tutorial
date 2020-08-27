@@ -1,0 +1,7 @@
+ChromeDriver=C:\\Selenium Setup\\Selenium Driver\\Chrome Driver\\chromedriver.exe
+
+IEDriver=C:\\Selenium Setup\\IEDriverServer.exe
+
+URL=https://stgmgrant.dhwaniris.in/site/login
+
+ExcelFilePath=
